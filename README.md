@@ -1,6 +1,6 @@
 ### Hi, i'm Isaias Roberto 👋 <hr>
 
-👨‍💻 Electronic engineering student
+👨‍💻 Electronic engineering student <br>
 🌱Atualmente estou aprendendo <img src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> & <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <br>
 📚Eu quero aprender 
 
