@@ -1,4 +1,11 @@
-### Hi, i`m Isaias Roberto 👋 <hr>
+### Hi, i'm Isaias Roberto 👋 <hr>
+
+👨‍💻 Electronic engineering student
+🌱Atualmente estou aprendendo <img src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> and <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+📚Eu quero aprender 
+
+<h3 align="left">Languages and Tools:</h3>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3 -1572B6? Style = flat & logo = css3 & logoColor = white "> <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
 <!--
 **anidio/anidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
