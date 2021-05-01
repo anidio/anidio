@@ -30,6 +30,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" width="35"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" width="35"> 
 </p>
+<hr>
+<h4 >Top langs :</h4>
+
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anidio&langs_count=10&theme=tokyonight&layout=compact" alt="anidio :: Top Langs" /></p>
+
+<h4 >Profile stats :</h4>
+
+<p ><img src="https://github-readme-stats.vercel.app/api?username=anidio&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
 
