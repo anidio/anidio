@@ -18,12 +18,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="45" width="45">
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="45" width="45">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="45" width="45">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" width="45">
-<hr>
+
+</p>
+
 ### other languages ​​that I know
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" width="35"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="85" width="65"> 
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" width="35"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" width="35"> 
+</p>
 
 
 
