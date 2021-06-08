@@ -2,8 +2,8 @@
 
 ### Hi, i'm Isaias Roberto 👋 <hr>
 
-👨‍💻 Electronic engineering student 
-💻 systems analysis and development student
+👨‍💻 Electronic engineering student <br>
+💻 systems analysis and development student<br>
 🌱 I'm currently learning <img src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" width = 60> <br>
 
 
