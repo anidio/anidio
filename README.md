@@ -9,7 +9,7 @@
 <h3 align="left">Languages ​​I'm studying:</h3>
 
 <p>
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" width="35">
 </p>
 
 ###  Languages ​​that I know:
