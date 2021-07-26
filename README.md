@@ -4,7 +4,7 @@
 
 👨‍💻 Electronic engineering student <br>
 💻 systems analysis and development student<br>
-🌱 I'm currently learning <img src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" width = 60> <br>
+🌱 I'm currently learning <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width = 60> <br>
 
 
  
