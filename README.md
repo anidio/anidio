@@ -4,17 +4,12 @@
 
 👨‍💻 Electronic engineering student <br>
 💻 systems analysis and development student<br>
-🌱 I'm currently learning <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width = 60> <br>
-
-
  
 
 <h3 align="left">Languages ​​I'm studying:</h3>
 
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="45" width="45">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="45" width="45">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" width="45">
-
+<p>
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg
 </p>
 
 ###  Languages ​​that I know:
@@ -23,6 +18,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" width="35"> 
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg height="35" width="35"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" width="35"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="45" width="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="45" width="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" width="45">
 <hr>
 </p>
 <h4 >Top langs :</h4>
