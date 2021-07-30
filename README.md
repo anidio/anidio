@@ -5,8 +5,8 @@
 👨‍💻 Electronic engineering student <br>
 💻 systems analysis and development student<br>
 
-<p > <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anidio&show_icons=true&theme=dark" alt="AnhellO :: Profile Stats" /></p>
-<p ><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anidio&langs_count=10&theme=dark&layout=compact" alt="anidio :: Top Langs" /></p> 
+<p > <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=anidio&show_icons=true&theme=dark" alt="AnhellO :: Profile Stats" /></p>
+<p ><img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anidio&langs_count=10&theme=dark&layout=compact" alt="anidio :: Top Langs" /></p> 
 <br>
 
 
