@@ -2,17 +2,26 @@
 
 ### Hi, i'm Isaias Roberto 👋 <hr>
 
+<h3 align="left">You can reach me at: 🖥️</h3>
+<a href="https://www.linkedin.com/in/isaias-roberto-8a7b8685/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Isaías Roberto LinkedIn Profile" height="30" width="30">
+      </a>
+<a href="https://www.instagram.com/isaiasrobertoo/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Isaías Roberto Instagram Profile" height="30" width="30">
+  </a>
+</p>
+
 👨‍💻 Electronic engineering student <br>
 💻 systems analysis and development student<br>
  
 
-<h3 align="left">Languages ​​I'm studying:</h3>
+<h3 align="left">What am I studying?</h3>
 
 <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" width="35">
 </p>
 
-###  Languages ​​that I know:
+###  Skills:
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" width="35"> 
@@ -28,14 +37,7 @@
 <p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anidio&langs_count=10&theme=tokyonight&layout=compact" alt="anidio :: Top Langs" /></p> <h4 >Profile stats :</h4>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=anidio&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<h3 align="left">You can reach me at: 🖥️</h3>
-<a href="https://www.linkedin.com/in/isaias-roberto-8a7b8685/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Isaías Roberto LinkedIn Profile" height="30" width="30">
-      </a>
-<a href="https://www.instagram.com/isaiasrobertoo/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Isaías Roberto Instagram Profile" height="30" width="30">
-  </a>
-</p>
+
 
 
 
