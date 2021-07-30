@@ -30,7 +30,7 @@
   </a>
 </p>
 
-
+![Snake animation](https://github.com/anidio/anidio/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
