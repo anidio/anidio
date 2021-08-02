@@ -8,7 +8,7 @@
 <p > <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=anidio&show_icons=true&theme=dark" />
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anidio&langs_count=10&theme=dark&layout=compact"/></p> 
 <br>
-###  Skills:
+<h2>Skills:</h2>
 <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40">
