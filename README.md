@@ -19,6 +19,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="40">
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg
  
 <hr>
 
