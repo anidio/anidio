@@ -2,8 +2,8 @@
 
 ### Hi, i'm Isaias Roberto 👋 <hr>
 
-👨‍💻 Electronic engineering student <br>
-💻 systems analysis and development student<br>
+👨‍💻 Information systems student <br>
+💻 Systems analysis and development technician<br>
 
 <div>
 <a href="https://github.com/anidio">
