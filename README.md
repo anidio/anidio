@@ -38,7 +38,8 @@
   
 </p>
 
-![Snake animation](https://github.com/anidio/anidio/blob/output/github-contribution-grid-snake.svg)
+<img src="/.github/workflows/octocat-1694612459097.png" height="350" width="350">
+
 
 
 <!--
