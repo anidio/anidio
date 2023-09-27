@@ -3,7 +3,7 @@
 ### Hi, i'm Isaias Roberto 👋 <hr>
 
 👨‍💻 Information systems student <br>
-💻 Systems analysis and development technician<br>
+💻 Systems analysis and development technician <br>
 
 <div>
 <a href="https://github.com/anidio">
