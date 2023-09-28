@@ -38,7 +38,7 @@
   
 </p>
 
-<img src="/.github/workflows/octocat-1694612459097.png" height="350" width="350">
+<img src="/.github/workflows/octocat-1694612459097.png" height="300" width="300">
 
 
 
