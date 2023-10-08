@@ -1,6 +1,6 @@
 
 
-### Hi, i'm Isaias Roberto 👋👋 <hr>
+### Hi, i'm Isaias Roberto 👋 <hr>
 
 👨‍💻 Information systems student <br>
 💻 Systems analysis and development technician <br>
