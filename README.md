@@ -5,6 +5,18 @@
 👨‍💻 Information systems student [7/8]<br>
 💻 Systems analysis and development technician <br>
 
+* **Minha Zona de Conforto:** **Java** e **Spring Boot** para APIs robustas.
+* **Meu Lado Front:** **React/TypeScript** para que as telas não chorem.
+* **Minha Nuvem Pessoal:** Uso **Docker** para garantir que "funciona na minha máquina" signifique "funciona em qualquer lugar", e a **AWS** para escalar (porque o meu café de manhã já não me escala mais).
+
+* **A Vibe:**
+
+🤖 Sou o dev que se apaixona por hardware. Se tem um **Arduino** ou **ESP32** envolvido, pode me chamar. Construir robôs é só uma forma mais divertida de provar que consigo fazer uma função em *loop*.
+
+☕️ **Estado Civil:** Casado com a tecnologia, mas namorando uma boa xícara de café.
+
+**Status:** Estudante (quase ex) de Sistemas de Informação [7/8].
+
 <div>
 <a href="https://github.com/anidio">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anidio&layout=compact&langs_count=7&theme=dracula"/>
