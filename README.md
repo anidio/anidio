@@ -2,7 +2,7 @@
 
 ### Hi, i'm Isaias Roberto 👋 <hr>
 
-👨‍💻 Information systems student <br>
+👨‍💻 Information systems student [7/8]<br>
 💻 Systems analysis and development technician <br>
 
 <div>
