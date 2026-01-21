@@ -5,9 +5,9 @@
 👨‍💻 Information systems student [7/8]<br>
 💻 Systems analysis and development technician <br>
 
-* **Minha Zona de Conforto:** **Java** e **Spring Boot** para APIs robustas.
-* **Meu Lado Front:** **React/TypeScript** para que as telas não chorem.
-* **Minha Nuvem Pessoal:** Uso **Docker** para garantir que "funciona na minha máquina" signifique "funciona em qualquer lugar", e a **AWS** para escalar (porque o meu café de manhã já não me escala mais).
+* **Minha Zona de Conforto:** **Java**, **Spring Boot** e **NestJs** para APIs robustas.
+* **Meu Lado Front:** **React/TypeScript**.
+* **Minha Nuvem Pessoal:** Uso **Docker** para garantir que "funciona na minha máquina" signifique "funciona em qualquer lugar", e a **AWS** para escalar.
 
 * **A Vibe:**
 
