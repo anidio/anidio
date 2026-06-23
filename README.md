@@ -2,7 +2,7 @@
 
 ### Hi, i'm Isaias Roberto 👋 <hr>
 
-👨‍💻 Information systems student [7/8]<br>
+👨‍💻 Information systems student [8/8]<br>
 💻 Systems analysis and development technician <br>
 
 * **Minha Zona de Conforto:** **Java**, **Spring Boot** e **NestJs** para APIs robustas.
