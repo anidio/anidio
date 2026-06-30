@@ -13,9 +13,8 @@
 
 🤖 Sou o dev que se apaixona por hardware. Se tem um **Arduino** ou **ESP32** envolvido, pode me chamar. Construir robôs é só uma forma mais divertida de provar que consigo fazer uma função em *loop*.
 
-☕️ **Estado Civil:** Casado com a tecnologia, mas namorando uma boa xícara de café.
 
-**Status:** Estudante (quase ex) de Sistemas de Informação [7/8].
+**Status:** Estudante (quase ex) de Sistemas de Informação [8/8].
 
 <div>
 <a href="https://github.com/anidio">
